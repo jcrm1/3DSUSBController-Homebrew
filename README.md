@@ -10,3 +10,6 @@ Running:
 
 Building:  
 ```make```
+
+Disclosure:
+I did not know C going into this project; I still don't know C. It's entirely possible that there are glaring errors or bugs in this. However, I have not yet had issues with it.
