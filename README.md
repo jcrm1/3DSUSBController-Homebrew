@@ -8,7 +8,7 @@ Running:
 2. Start server (```java -jar *.jar```)  
 3. Start homebrew  
 
-Building:  
+Building (requires devkitPro 3ds-dev):  
 ```make```
 
 Disclosure:
