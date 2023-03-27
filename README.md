@@ -17,4 +17,4 @@ Building (requires devkitPro 3ds-dev):
 `make`
 
 Disclosure:
-I did not know C going into this project. I went back and cleaned it up a bit, but it's entirely possible that there are glaring errors or bugs in this. However, I have not yet had issues with it.
+I did not know C when I made this project. I went back and cleaned it up a bit, but it's entirely possible that there are glaring errors or bugs in this. However, I have not yet had issues with it.
